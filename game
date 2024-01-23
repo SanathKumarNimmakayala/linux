@@ -1,0 +1,297 @@
+
+  146  sudo apt update
+  147  sudo apt install git
+  148  git --version
+  149  cd
+  150  git clone https://gitlab.com/slackermedia/bashcrawl.git bashcrawl
+  151  cd bashcrawl
+  152  cat README.md
+  153  ls
+  154  ls -l
+  155  pwd
+  156  cd entrance/
+  157  ls
+  158  cellar scroll'
+  159  cellar scroll
+  160  cat scroll
+  161  ls
+  162  cd entrance/
+  163  :wq
+  164  ls
+  165  cd../
+  166  cd ../
+  167  pwd
+  168  clear
+  169  q
+  170  $ history
+  171  ls -l
+  172  error
+  173  ls cellar scroll
+  174  lsls
+  175  cellar scroll
+  176  pwd
+  177  is
+  178  ls
+  179  cat scroll
+  180  ls
+  181  pwd
+  182  cd ../
+  183  ls
+  184  tail -100 .bash_history > $user.text
+  185  tail -100 .bash_history > $USER.txt
+  186  ls
+  187  cd entrance
+  188  ls-F
+  189  ls -f
+  190  ls -F
+  191  cat scroll
+  192  cd cellar
+  193  ls -F
+  194  ./treasure
+  195  export I=amulet,$I
+  196  echo $I
+  197  cat scroll
+  198  alias lf='ls -F'
+  199  lf
+  200  cd armoury
+  201  lf
+  202  ./treasure
+  203  I=sword,$I
+  204  echo $I
+  205  cat scroll
+  206  lf
+  207  ./potion
+  208  export HP=15
+  209  echo $HP
+  210  cd chamber
+  211  lf
+  212  cd ..
+  213  lf
+  214  cd entrance
+  215  lf
+  216  cd chapel
+  217  lf
+  218  ./altar
+  219  cat scroll
+  220  cd courtyard
+  221  lf
+  222  ./ rags
+  223  ./rags
+  224  export I=rags,fish,$I
+  225  echo $I
+  226  ./fountain
+  227  lf
+  228  ./fountain
+  229  cat scroll
+  230  lf
+  231  cd fountain
+  232  lf
+  233  cd aviary
+  234  lf
+  235  ./penguin
+  236  lf
+  237  ./crystal
+  238  I=CRYSTAL
+  239  I=crystal,$I
+  240  echo $I
+  241  cd hall
+  242  lf
+  243  ./library
+  244  lf
+  245  cd ..
+  246  lf
+  247  cd entrance
+  248  lf
+  249  cd vault
+  250  lf
+  251  ./ glass
+  252  ./glass
+  253  export I=$(sed 's/crystal,//' <<<$I)
+  254  lf
+  255  ./stronghold
+  256  ./ stronghold
+  257  lf
+  258  ./ glass
+  259  ./glass
+  260  cd stronghold
+  261  lf
+  262  ./goblet
+  263  lf
+  264  cp orb1 orb2
+  265  cp orb1 orb3
+  266  lf
+  267  echo
+  268  cd nursery
+  269  lf
+  270  ./spell
+  271  find . -name "potion"
+  272  pwd
+  273  lf
+  274  cd lab
+  275  lf
+  276  ./ghost
+  277  echo $I
+  278  configip
+  279  ipconfig
+  280  sudo apt install ipconfig
+  281  clear
+  282  sudo apt update
+  283  sudo apt install git
+  284  git --version
+  285  cd
+  286  git clone https://gitlab.com/slackermedia/bashcrawl.git bashcrawl
+  287  cd bashcrawl
+  288  cat README.md
+  289  cd entrance
+  290  ls
+  291  cellar sroll
+  292  cat scroll
+  293  ls
+  294  lf
+  295  lf -l
+  296  cellar
+  297  cd cellar
+  298  lf
+  299  sudo apt install lf
+  300  lf
+  301  ls
+  302  cd desktop
+  303  cd ..
+  304  ls
+  305  cd bashcrawl
+  306  cd entrance
+  307  ls
+  308  alias lf='ls -F'
+  309  lf
+  310  cd cellar
+  311  lf
+  312  ./treasure
+  313  export I=amulet,$I
+  314  echo $I
+  315  cd scroll
+  316  cat scroll
+  317  cd armoury
+  318  lf
+  319  ./treasure
+  320  export I=sword,$I
+  321  echo $I
+  322  cat scroll
+  323  lf
+  324  ./potion
+  325  export HP=15
+  326  echo $HP
+  327  cd chamber
+  328  lf
+  329  ./treasure
+  330  I=coins,$I
+  331  echo $I
+  332  ./statue
+  333  ./spell
+  334  ln -fs ../../../chapel/courtyard/aviary/hall portal
+  335  lf
+  336  ./pieces
+  337  lf
+  338  echo$I
+  339  cd ..
+  340  lf
+  341  cd chapel
+  342  lf
+  343  ./altar
+  344* 
+  345  I=trinket,$I
+  346  echo $I
+  347  lf
+  348  cd courtyard
+  349  lf
+  350  ./rags
+  351  export I=rags,fish,$I
+  352  echo $I
+  353  lf
+  354  ./fountains
+  355  lf
+  356  ./fountain
+  357  "HP=HP-2"
+  358  let "HP=HP-2"
+  359  lf
+  360  cd aviary
+  361  lf
+  362  ./crystal
+  363  I=crystal,$I
+  364  echo $I
+  365  lf
+  366  ./penguin
+  367  cd hall
+  368  lf
+  369  cd library
+  370  lf
+  371  ./tome
+  372  lf
+  373  cd ..
+  374  lf
+  375  cd ..
+  376  lf
+  377  echo $I
+  378  cd cellar
+  379  lf
+  380  cd armoury
+  381  lf
+  382  ./treasure
+  383  ./potion
+  384  export HP=10
+  385  echo $HP
+  386  lf
+  387  cd chamber
+  388  lf
+  389  ./pieces
+  390  lf
+  391  cd ..
+  392  lf
+  393  cd chapel
+  394  lf
+  395  ./altar
+  396  cd courtyard
+  397  lf
+  398  cd aviary
+  399  lf
+  400  cd ..
+  401  cd entrance
+  402  lf
+  403  cd cellar
+  404  lf
+  405  ./treasure
+  406  cd armoury
+  407  ./treasure
+  408  lf
+  409  cd chamber
+  410  lf
+  411  ./treasure
+  412  export I=diamonds,$I
+  413  echo $I
+  414  ./pieces
+  415  cd ..
+  416  lf
+  417  cd chapel
+  418  lf
+  419  cd courtyard
+  420  lf
+  421  cd aviary
+  422  lf
+  423  ./crystal
+  424  cd hall
+  425  lf
+  426  cd library
+  427  lf
+  428  cd ..
+  429  cd vault
+  430  lf
+  431  cd stronghold
+  432  lf
+  433  cd nursery
+  434  lf
+  435  cd lab
+  436  lf
+  437  echo $I
+  438  history | tail -n 200 > command_history.txt
+  439  lf
+  440  cd ..
+  441  history | tail -n 700 > command_history.txt
